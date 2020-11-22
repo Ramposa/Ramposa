@@ -1,6 +1,14 @@
 # Welcome to
 ## Daniel Tang GitHub profile.
 
+### About me
+
+### Skills and Attributes
+#### Programming language(s)
+#### Skills
+
+### Repositories
+
 ### Social Links
 
 <a href="https://www.twitch.tv/ramposa">
