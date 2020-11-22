@@ -7,6 +7,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" alt="Twitch.tv/Ramposa" width="10%">
 </a>
 
-| <a href="https://www.twitch.tv/ramposa">
+<a href="https://www.twitch.tv/ramposa">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" alt="Twitch.tv/Ramposa" width="10%">
-</a> | dan@outlook.com |
+</a> <a href="https://www.twitch.tv/ramposa">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" alt="Twitch.tv/Ramposa" width="10%">
+</a>
