@@ -10,5 +10,6 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" width="10%">
 
-
-[](https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" width="10%")(https:google.com)
+<a href="https://google.com">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" width="10%">
+</a>
