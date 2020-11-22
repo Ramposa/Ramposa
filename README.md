@@ -4,7 +4,7 @@
 ### About me
 
 ### Skills and Attributes
-#### \*Skills\*
+#### __Skills__
 
 ### Repositories
 
