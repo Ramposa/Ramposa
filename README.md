@@ -4,8 +4,7 @@
 ### About me
 
 ### Skills and Attributes
-#### Programming language(s)
-#### Skills
+#### \*Skills\*
 
 ### Repositories
 
