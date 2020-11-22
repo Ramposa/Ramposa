@@ -10,6 +10,5 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg" alt="YouTube" width="10%">
 </a>
 <a href="https://www.linkedin.com/in/danieltangeuw/">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Logo_of_YouTube_%282015-2017%29.svg" alt="LinkedIn" width="10%">
-</a>" alt="YouTube" width="10%">
+  <img src="https://en.wikipedia.org/wiki/LinkedIn#/media/File:LinkedIn_Logo_2013.svg" alt="LinkedIn" width="10%">
 </a>
