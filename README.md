@@ -1,14 +1,13 @@
-# Welcome to
-## Daniel Tang GitHub profile.
+# Welcome to  Daniel Tang GitHub profile.
 
-### About me
+## About me
 
-### Skills and Attributes
-#### __Skills__
+## Skills and Attributes
+### __Skills__
 
-### Repositories
+## Repositories
 
-### Social Links
+## Social Links
 
 <a href="https://www.twitch.tv/ramposa">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/Twitch_logo.svg" alt="Twitch.tv/Ramposa" width="10%">
