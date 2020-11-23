@@ -5,7 +5,8 @@
 I am unemployeed, looking for IT Level 3 Infrastructure Apprentice, I would love to specialise into networking and working with PCs, servers ect. I enjoy building my gaming rig, which was a challenge for building my own PC from scartch, example making it work, keeping cables organised. I also enjoy programming in Java, however I want to learn C# and python in AI, and non OOP languages such as HTML, CSS, PHP ect.
 I work hard, and dedicate my studies in networking and consantly improving myself.
 
-I want to gain some experience in the IT field, I want to learn while at work. In the near future I may consider getting CCNA if I'm ready and able to afford it.
+I am individual who loves technology and aspire to continue to learn because of technology is constantly changing and that is my motivation to learn. However, with a change of pace and a different career path, I want to work where I keep moving physically, mentally, career path and developing skills especially in the field where its constantly changing.
+I am internet advocacy, I love the internet and the fundamentals, however I want to study more into the fundamental side and the practical side, along side networking understanding how it works. I want to gain some experience in the IT field, I want to learn while at work. In the near future I may consider getting CCNA if I'm ready and able to afford it.
 
 ## Skills, Attributes and Achivements
 ### __Skills/ Attributes__
