@@ -6,7 +6,7 @@ I am unemployeed, looking for IT Level 3 Infrastructure Apprentice, I would love
 I work hard, and dedicate my studies in networking and consantly improving myself.
 
 ## Skills, Attributes and Achivements
-### __Skills__
+### __Skills/ Attributes__
 * Teamwork skills
 * Communication
 * Patience
@@ -16,7 +16,12 @@ I work hard, and dedicate my studies in networking and consantly improving mysel
 * Taking Pride
 * Hard worker
 
+### Achievements
+* Achived 8 GCSEs including Maths, English (Lit and Lang) and ICT.
+* Achive DDM in BTEC Computing
+
 ## Repositories
+* Working In Progress
 
 ## Social Links
 
