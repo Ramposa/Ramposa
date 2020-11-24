@@ -24,6 +24,8 @@ I am internet advocacy, I love the internet and the fundamentals, however I want
 * Achive DDM in BTEC Computing (Currently highest grade achived).
 
 ## Repositories
+* https://github.com/Ramposa/ticTacToe
+* https://github.com/Ramposa/understanding_OOP_Java
 * Working In Progress
 
 ## Social Links
