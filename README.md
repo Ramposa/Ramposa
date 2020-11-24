@@ -37,5 +37,5 @@ I am internet advocacy, I love the internet and the fundamentals, however I want
 </a>
 
 <a href="https://www.linkedin.com/in/danieltangeuw/">
-  <img src="https://nepa.com/blog/linkedin-logo/" alt="LinkedIn" width="10%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/LinkedIn_Logo_2013.svg" alt="LinkedIn" width="10%">
 </a>
