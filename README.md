@@ -18,6 +18,7 @@ I am internet advocacy, I love the internet and the fundamentals, however I want
 * Adaptability
 * Taking Pride
 * Hard worker
+* Self Improvement
 
 *More skills and attributes will be reference here soon.*
 
