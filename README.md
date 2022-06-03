@@ -30,7 +30,7 @@ I am internet advocacy, I love the internet and the fundamentals, however I want
 * https://github.com/Ramposa/understanding_OOP_Java
 * Working In Progress
 
-## Intrests
+## Interests
 * Machine Learning
 * Artificial Intelligence
 * IoT
