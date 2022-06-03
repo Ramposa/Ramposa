@@ -1,7 +1,7 @@
 # Welcome to  Daniel Tang GitHub profile.
 *This is still working in progress.*
 
-## About me
+## About me 🖥
 
 I am unemployeed, I would love to specialise into networking and working with PCs, servers ect. I enjoy building my gaming rig, which was a challenge for building my own PC from scartch, example making it work, keeping cables organised. I also enjoy programming in Java, however currently learning C++ and python for AI and machine learning, and non OOP languages such as HTML, CSS, PHP ect.
 I work hard, and dedicate my studies in networking and consantly improving myself.
