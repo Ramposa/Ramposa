@@ -24,6 +24,7 @@ I am internet advocacy, I love the internet and the fundamentals, however I want
 ### Achievements 📈
 * Achived 8 GCSEs including Maths, English (Lit and Lang) and ICT.
 * Achive DDM in Level 3BTEC Computing (Currently highest grade achived).
+* Building my personal computer
 
 ## Repositories 🗂
 * https://github.com/Ramposa/ticTacToe
