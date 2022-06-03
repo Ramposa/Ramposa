@@ -27,8 +27,8 @@ I am internet advocacy, I love the internet and the fundamentals, however I want
 * Building my personal computer
 
 ## Repositories 🗂
-* https://github.com/Ramposa/ticTacToe
-* https://github.com/Ramposa/understanding_OOP_Java
+* https://github.com/Ramposa/Simple-Neural-Network-Digits
+* https://github.com/Ramposa/Search-Weather-Website-App
 * Working In Progress
 
 ## Interests ⛩
