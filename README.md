@@ -1,5 +1,4 @@
 # Welcome to  Daniel Tang GitHub profile.
-*This is still working in progress.*
 
 Hello there, I'm Daniel Tang, a third-year (senior year) Computer Science student, expecting to graduate in May 2022, pending grades.
 
