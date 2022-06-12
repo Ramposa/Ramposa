@@ -2,14 +2,6 @@
 
 Hello there, I'm Daniel Tang, a third-year (senior year) Computer Science student, expecting to graduate in May 2022, pending grades.
 
-### My attributes 🔧 
-* Java
-* UX/UI Design
-* MS Visual Studio Code
-* C++
-* HTML, CSS & PHP
-* Python
-
 ### My Skills 🛠
 * Analytical Skills
 * Organization Skills
@@ -17,6 +9,14 @@ Hello there, I'm Daniel Tang, a third-year (senior year) Computer Science studen
 * Time Mangement
 * Creativity
 * Computer Systems
+
+### My attributes 🔧 
+* Java
+* UX/UI Design
+* MS Visual Studio Code
+* C++
+* HTML, CSS & PHP
+* Python
 
 ### My goals 📈
 * My drive is to change the world for a more efficient and how we can capture data using IoT equipment and its sensors to make life easier to live and reduce the cost of upkeep.
