@@ -11,11 +11,12 @@ My attributes 🔧
 • Python
 
 My Skills 🛠
-•
-•
-•
-•
-•
+• Analytical Skills
+• Organization Skills
+• Problem Solving
+• Time Mangement
+• Creativity
+• Computer Systems
 
 My goals 📈
 • My drive is to change the world for a more efficient and how we can capture data using IoT equipment and its sensors to make life easier to live and reduce the cost of upkeep.
