@@ -11,7 +11,7 @@ Hello there, I'm Daniel Tang, a third-year (senior year) Computer Science studen
 * Computer Systems
 
 ### My attributes 🔧 
-* Java
+* Computer Builder
 * UX/UI Design
 * MS Visual Studio Code
 * C++
