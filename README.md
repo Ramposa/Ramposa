@@ -38,3 +38,14 @@ Hello there, I'm Daniel Tang, a third-year (senior year) Computer Science studen
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+### Noteable Repository Links
+<br>
+<div id="RepoLinks">
+  <a href="https://github.com/Ramposa/C-Programming-Repository">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://github.com/Ramposa/Jupyter-Notebook-Repository">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter Notebook" alt="Jupyter Notebook" width="40" height="40"/>&nbsp;
+  </a>
+</div>
