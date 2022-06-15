@@ -40,4 +40,5 @@ Hello there, I'm Daniel Tang, a third-year (senior year) Computer Science studen
 </div>
 
 ### GitHub Readme Stats
-(https://github-readme-stats.vercel.app/api/top-langs/ramposa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/ramposa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt=ramposa's stats" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiramposa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)">
