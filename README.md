@@ -38,3 +38,6 @@ Hello there, I'm Daniel Tang, a third-year (senior year) Computer Science studen
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+### GitHub Readme Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?ramposa=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
