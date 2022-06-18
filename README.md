@@ -3,7 +3,7 @@
 [![GitLab](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://git.ysjcs.net:8888/daniel.tang)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:daneiltang1999uk@outlook.com)
 <!-- [![]()]() -->
-### 🎓 Senior (Final) Year Computer Science Student, expecting to graduate in May 2022
+### 🎓 Senior (Final) Year CS Major, expecting to finish in May 2022
 * Notable courses: Artificial Intelligence, IoT, Networking, Dissertation & HCI.
 * Dissertation: Embedded Fall Detection Systems.
 * Grade: Pending, date unknown.
