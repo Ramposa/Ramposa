@@ -13,7 +13,7 @@
 ### ⛩ Interests 
 * Internet of Things (IoT).
 * Artificial Intelligence (AI) - Machine Learning (ML).
-* Cleaning up my code.
+* Cleaning up my messy code.
 * New technology & Space.
 * Food & Travel.
 > THE FUTURE OF OUR COUNTRY LIES IN THE STARS.
