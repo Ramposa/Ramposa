@@ -5,7 +5,7 @@
 <!-- [![]()]() -->
 ### 🎓 Senior (Final) Year CS Student, expecting to graduate in May 2022
 * Notable courses: Artificial Intelligence, IoT, Networking, Dissertation & HCI.
-* Dissertation: Embedded Fall Detection Systems .
+* Dissertation: Embedded Fall Detection Systems.
 * Grade: Pending, date unknown.
 
 ---
