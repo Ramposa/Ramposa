@@ -38,7 +38,7 @@
 ---
 
 <details>
-<summary><h3>Other Details</h3></summary>
+<summary><h3>Click Here For More Details</h3></summary>
 <h4>🛠 My Skills</h4>
 <ul>
   <li>📊 Analytical </li>
