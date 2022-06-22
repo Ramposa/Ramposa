@@ -60,14 +60,14 @@
   <li>I've gained technical knowledge and practical skills from universities and colleges to understand programming languages such as C#, C++, and Java and software tools to develop, alongside I have gained networking skills which allow me to create a simulated network and use Wireshark on virtual machines. I am still developing my mathematical skills, data analytics, and data presentation to become more successful.</li>
 </ol> 
 <h4>🗂 Noteable Repositories</h4>
-<ol>
+<ul>
   <li><a href="https://github.com/Ramposa/Jupyter-Notebook-Repository">Artificial Intelligence</a></li>
   <li><a href="https://github.com/Ramposa/YAM.github-io">Web Dev: Databases, PHP, SQL</a></li>
   <li><a href="https://github.com/Ramposa/Simple-Neural-Network-Digits">Simple Neural Network MNIST</a></li>
   <li><a href="https://github.com/Ramposa/C-Programming-Repository">C Programming</a></li>
   <li><a href="https://github.com/Ramposa/danieltang.github-io">Old and unused personal website</a></li>
   <!-- <li><a href="url">link text</a></li> -->
-</ol> 
+</ul> 
 
 ### GitHub Readme Stats
 <img align="left" alt="Ramposa's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ramposa&show_icons=true&theme=tokyonight"/>
