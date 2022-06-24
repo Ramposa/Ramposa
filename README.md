@@ -64,7 +64,7 @@
   <li><a href="https://github.com/Ramposa/YAM.github-io">Web Dev: Databases, PHP, SQL</a></li>
   <li><a href="https://github.com/Ramposa/Simple-Neural-Network-Digits">Simple Neural Network MNIST</a></li>
   <li><a href="https://github.com/Ramposa/C-Programming-Repository">C Programming</a></li>
-  <li><a href="https://github.com/Ramposa/danieltang.github-io">Old and unused personal website</a></li>
+  <li><a href="https://github.com/Ramposa/danieltang.github-io">My current website</a></li>
   <!-- <li><a href="url">link text</a></li> -->
 </ul> 
 
