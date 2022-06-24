@@ -6,7 +6,7 @@
 <!-- [![]()]() -->
 ### 🎓 Senior (Final) Year CS Major, expecting to finish in May 2022
 * Notable courses: Artificial Intelligence, IoT, Networking, Dissertation & HCI.
-* Dissertation: Embedded Fall Detection Systems.
+<!--* Dissertation: Embedded Fall Detection Systems.-->
 * Grade: Pending, date unknown.
 
 ---
