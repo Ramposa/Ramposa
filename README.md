@@ -4,7 +4,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:daneiltang1999uk@outlook.com)
 [![GitHubPages](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ramposa.github.io/danieltang.github-io/)
 <!-- [![]()]() -->
-### 🎓 Senior (Final) Year CS Major, expecting to finish in May 2022
+### 🎓 Senior (Final) Year CS Major, expecting to finish in July 2022
 * Notable courses: Artificial Intelligence, IoT, Networking, Dissertation & HCI.
 * Grade: Pending, date unknown.
 <!--* Dissertation: Embedded Fall Detection Systems.-->
