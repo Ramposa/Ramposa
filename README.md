@@ -35,7 +35,7 @@
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" />
 <!-- <img align="left" alt="" width="26px" src="" style="padding-right:10px;" /> -->
 <br>
-
+---
 <details>
 <summary><h3>Click Here For More Details</h3></summary>
 <h4>🛠 My Skills</h4>
