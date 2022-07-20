@@ -4,11 +4,11 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:daneiltang1999uk@outlook.com)
 [![GitHubPages](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ramposa.github.io/danieltang.github-io/)
 <!-- [![]()]() -->
-### 🎓 Senior (Final) Year CS Major, expecting to finish in July 2022
+### 🎓 Senior (Final) Year CS Major, finished July, graduation ceremony November 17th
 * Notable courses: Artificial Intelligence, IoT, Networking, Dissertation & HCI.
 * Dissertation title: Embedded fall detection system using accelerometer and threshold-based algorithm.
 * Dissertation grade: 77/100 (1st class & provision)
-* Grade: 2:1 (Provisional, but still pending).
+* Grade: 2:1 (67.25%)
 <!--* Dissertation: Embedded Fall Detection Systems.-->
 
 ---
