@@ -8,7 +8,7 @@
 * Notable courses: Artificial Intelligence, IoT, Networking, Dissertation & HCI.
 * Dissertation title: Embedded fall detection system using accelerometer and threshold-based algorithm.
 * Dissertation grade: 77/100 (1st class & provision)
-* Grade: 2:1 (67.25%)
+* Overall Grade: 2:1 (67.25%)
 <!--* Dissertation: Embedded Fall Detection Systems.-->
 
 ---
