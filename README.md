@@ -7,7 +7,7 @@
 ### 🎓 Senior (Final) Year CS Major, finished July, graduation ceremony November 17th
 * Notable courses: Artificial Intelligence, IoT, Networking, Dissertation & HCI.
 * Dissertation title: Embedded fall detection system using accelerometer and threshold-based algorithm.
-* Dissertation grade: 77/100 (1st class & provision)
+* Dissertation grade: 77/100 (1st class)
 * Overall Grade: 2:1 (67.25%)
 <!--* Dissertation: Embedded Fall Detection Systems.-->
 
