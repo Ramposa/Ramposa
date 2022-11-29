@@ -4,7 +4,7 @@
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:daneiltang1999uk@outlook.com)
 [![GitHubPages](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ramposa.github.io/danieltang.github-io/)
 <!-- [![]()]() -->
-### 🎓 Computer Science Major
+### 🎓 Bachelor of Computer Science
 * Notable courses: Artificial Intelligence, IoT, Networking, Dissertation & HCI.
 * Dissertation title: Embedded fall detection system using accelerometer and threshold-based algorithm.
 * Dissertation grade: 77/100 (1st Class)
