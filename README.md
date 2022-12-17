@@ -1,4 +1,4 @@
-# Hello there, I'm Daniel, a Computer Science student
+# Hello there, I'm Daniel, I.T. Service Desk Analysit.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieltangeuw/)
 [![GitLab](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://git.ysjcs.net:8888/daniel.tang)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:daneiltang1999uk@outlook.com)
