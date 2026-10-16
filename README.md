@@ -1,8 +1,5 @@
-# Hello there, I'm Daniel, I.T. Service Desk Analysit.
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieltangeuw/)
-[![GitLab](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://git.ysjcs.net:8888/daniel.tang)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:daneiltang1999uk@outlook.com)
-[![GitHubPages](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ramposa.github.io/danieltang.github-io/)
+# Hello there, I'm Daniel, I.T. Service Desk Analyst.
+
 <!-- [![]()]() -->
 ### 🎓 Bachelor of Computer Science
 * Notable courses: Artificial Intelligence, IoT, Networking, Dissertation & HCI.
